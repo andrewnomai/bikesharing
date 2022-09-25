@@ -7,7 +7,7 @@ We are tasked to put together a proposal for angel investors to introduce a bike
 ## Results
 
 Link to Story
-https://public.tableau.com/shared/DDFZG7SB2?:display_count=n&:origin=viz_share_link
+https://public.tableau.com/views/CitiBike_16637404135490/Deliverable3?:language=en-US&:display_count=n&:origin=viz_share_link
 
 ###### Checkout Times by Gender
 
